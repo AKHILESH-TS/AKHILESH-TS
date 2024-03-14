@@ -1,3 +1,4 @@
+[![MasterHead](https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_720_1280/0/1651835064260?e=1715817600&v=beta&t=v4gjc5k1jSDjOl-x29xkAhAlSpaU445tSI35qOa4uHI))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akhilesh ts</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  align="right" width="400" src="https://camo.githubusercontent.com/b2b688db1f6826e136cc51b97070deea8af15747acb3bf0b9e209afd4a313374/68747470733a2f2f70687973696373677572756b756c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30322f6368617261637465722d312e676966" alt="akhileshts">
