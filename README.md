@@ -9,6 +9,7 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **akhileshts091@gmail.com**
+- Protfolio **https://akhileshts.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
